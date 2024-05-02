@@ -1,0 +1,7 @@
+-edit the students in the 'students.txt' file
+-run 'python generate.py'
+
+-check the generated images for the no. of students
+-run 'python attendance.py'
+
+-check the 'attendees.txt' for the students attendance.
